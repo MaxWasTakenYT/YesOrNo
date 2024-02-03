@@ -6,8 +6,7 @@ from tkinter import messagebox
 root = tk.Tk()
 root.withdraw()
 
-print(" *Yes or No?* ")
-print("Only works on Linux/macOS")
+print("Welcome to *Yes or No?*")
 time.sleep(1)
 os.system("clear")
 
